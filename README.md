@@ -1,55 +1,99 @@
-Juan Nahuel Seoane
+<h1 align="center">Juan Nahuel Seoane</h1>
 
-Python Automation | QA Automation | Software Development
+<p align="center">
+  <strong>Python Automation · QA Automation · Software Development</strong>
+</p>
 
-I'm transitioning from operations and administrative management into software development, with a focus on Python automation and software quality.
+<p align="center">
+  <a href="https://nahuelseoane.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/nahuel-seoane">LinkedIn</a>
+</p>
 
-I started programming to automate real repetitive workflows at work. That experience led me to build increasingly structured automation and testing projects using Python, Selenium, Pytest, APIs, SQL, and CI/CD.
+---
 
-Featured Projects
+## About Me
 
-"Python Workflow Automation Engine" (https://github.com/nahuelseoane/python-workflow-automation-engine)
+I'm transitioning from operations and administrative management into software development, with a focus on **Python automation and software quality**.
 
-A portfolio version of a real-world administrative automation system.
+I started programming to automate real repetitive workflows at work. That experience led me to build increasingly structured automation and testing projects using **Python, Selenium, Pytest, APIs, SQL, and CI/CD**.
+
+I enjoy turning manual processes into **simple, reliable, and maintainable solutions**.
+
+---
+
+## Featured Projects
+
+### [Python Workflow Automation Engine](https://github.com/nahuelseoane/python-workflow-automation-engine)
+
+> A portfolio version of a real-world administrative automation system.
 
 Automates multi-step workflows involving data processing, Excel operations, browser automation, validation, and reporting.
 
-Python · Selenium · Pandas · OpenPyXL · CLI automation
+**Stack:** `Python` · `Selenium` · `Pandas` · `OpenPyXL` · `CLI`
 
-"Python API Testing Suite" (https://github.com/nahuelseoane/python-api-testing-suite)
+---
 
-Automated REST API testing suite focused on maintainable test architecture, positive and negative scenarios, schema validation, and CI.
+### [Python API Testing Suite](https://github.com/nahuelseoane/python-api-testing-suite)
 
-Python · Pytest · Requests · JSON Schema · GitHub Actions
+> Automated REST API testing suite focused on maintainable test architecture.
 
-"UI Automation Suite" (https://github.com/nahuelseoane/ui-automation-suite)
+Includes positive and negative scenarios, response validation, JSON Schema validation, fixtures, parametrization, and automated CI execution.
 
-End-to-end browser testing project using automated UI tests and reusable test architecture.
+**Stack:** `Python` · `Pytest` · `Requests` · `JSON Schema` · `GitHub Actions`
 
-Python · Pytest · Selenium · Page Object Model
+---
 
-"IT Support Workspace" (https://github.com/nahuelseoane/it-support-workspace)
+### [UI Automation Suite](https://github.com/nahuelseoane/ui-automation-suite)
 
-Documentation of practical troubleshooting cases, technical notes, commands, and IT support workflows.
+> End-to-end browser testing project built with reusable test architecture.
 
-Technical Focus
+Uses automated UI testing, the Page Object Model, reusable page methods, fixtures, and regression testing practices.
 
-Core: Python · Pytest · Selenium · API Testing · SQL · Git
+**Stack:** `Python` · `Pytest` · `Selenium` · `Page Object Model`
 
-Automation & Data: Pandas · OpenPyXL · REST APIs · CLI automation
+---
 
-Tools: GitHub Actions · Linux / WSL · PostgreSQL · VS Code
+### [IT Support Workspace](https://github.com/nahuelseoane/it-support-workspace)
 
-Currently learning: Playwright · CI/CD · Backend development
+> Documentation of practical troubleshooting cases and IT support workflows.
 
-Languages
+Contains troubleshooting notes, technical documentation, useful commands, and real support cases.
 
-- Spanish — Native
-- English — Advanced
-- German — Intermediate
+**Focus:** `Troubleshooting` · `Linux` · `Windows` · `Technical Documentation`
 
-Connect
+---
 
-Portfolio: "nahuelseoane.github.io" (https://nahuelseoane.github.io/)
-LinkedIn: "linkedin.com/in/nahuel-seoane" (https://www.linkedin.com/in/nahuel-seoane)
-Email: nahuelseoane@gmail.com
+## Technical Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" alt="Pytest">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
+
+**Core:** Python · Pytest · Selenium · API Testing · SQL · Git
+
+**Automation & Data:** Pandas · OpenPyXL · REST APIs · CLI Automation
+
+**Tools:** GitHub Actions · Linux / WSL · PostgreSQL · VS Code
+
+**Currently learning:** Playwright · CI/CD · Backend Development
+
+---
+
+## Languages
+
+- **Spanish:** Native
+- **English:** Advanced
+- **German:** Intermediate
+
+---
+
+## Connect
+
+**Portfolio:** [nahuelseoane.github.io](https://nahuelseoane.github.io/)  
+**LinkedIn:** [linkedin.com/in/nahuel-seoane](https://www.linkedin.com/in/nahuel-seoane)  
+**Email:** nahuelseoane@gmail.com
